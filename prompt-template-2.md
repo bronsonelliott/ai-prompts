@@ -2,8 +2,15 @@
 
 - **Title:** Summarize Meeting Notes
 - **Description:** Summarizes raw meeting notes with bullet points and action items
+- **Author:** Bronson Elliott
+- **Created:** 2025-08-03
+- **Updated:** 2025-08-03
 - **Tags:** meetings, summarization, productivity
 - **Tool:** ChatGPT
+- variables:
+  - name: example_variable
+  - description: [Explain what users should replace this with]
+  - required: true
 
 ---
 
