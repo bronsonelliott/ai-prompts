@@ -5,12 +5,11 @@
 - **Tags:** meetings, summarization, productivity
 - **Tool:** ChatGPT
 
+---
+
 ## ✨ Prompt
 
-[🟡 Replace everything below with your actual prompt]
-
 Please perform the following task using this input:
-
 {{example_variable}}
 
 ---
