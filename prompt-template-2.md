@@ -11,7 +11,7 @@
   - name: example_variable
   - description: [Explain what users should replace this with]
   - required: true
-  - --
+  - -
   - name: example_variable
   - description: [Explain what users should replace this with]
   - required: true
