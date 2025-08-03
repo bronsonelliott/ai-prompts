@@ -1,0 +1,27 @@
+title: Summarize Meeting Notes
+description: Summarize raw meeting notes into a concise summary with action items.
+author: bronson.h
+created: 2025-08-03
+updated: 2025-08-03
+tags:
+  - summarization
+  - meetings
+  - productivity
+variables:
+  - name: meeting_notes
+    description: The raw transcript or notes from the meeting
+    required: true
+llm: general
+tool: ChatGPT
+level: beginner
+prompt: |
+  Summarize the following meeting notes into clear bullet points with action items at the end.
+
+  Meeting Notes:
+  {{meeting_notes}}
+usage: |
+  1. Replace `{{meeting_notes}}` with your actual notes.
+  2. Copy and paste the full prompt into ChatGPT or your preferred AI tool.
+  3. Review the result, then copy or adjust as needed.
+notes: |
+  This prompt works well with unstructured text from voice-to-text transcripts, handwritten notes, or messy bullet points.
