@@ -3,7 +3,7 @@ title: [Your Prompt Title Here]
 description: [One sentence explaining what this prompt does.]
 author: [your.name]
 created: 2025-08-03
-updated: 2025-08-03
+updated: 2025-08-17
 tags: [example, prompt, template]
 variables:
   - name: example_variable
