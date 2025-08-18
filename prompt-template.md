@@ -6,9 +6,9 @@ created: 2025-08-03
 updated: 2025-08-17
 tags: [example, prompt, template]
 variables:
-  - name: example_variable
-    description: [Explain what users should replace this with]
-    required: true
+  name: example_variable
+  description: [Explain what users should replace this with]
+  required: true
 llm: general
 tool: ChatGPT
 level: beginner
